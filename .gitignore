@@ -1,0 +1,6 @@
+# Python version file used by pyenv and other version managers
+.python-version
+
+# Kwakkie directory
+kwakkie/
+
